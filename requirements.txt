@@ -1,0 +1,6 @@
+numpy>=1.21
+scipy>=1.7
+scikit-learn>=1.0
+torch>=1.12
+# optional, only for MATLAB v7.3 (.mat HDF5) files
+# h5py>=3.0
